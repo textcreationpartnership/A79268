@@ -1,0 +1,819 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Calvers royall vision. With his most humble addresses to His Majesties royall person.</title>
+            <author>Calver, Edward, fl. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79268</idno>
+            <idno type="STC">Wing C317</idno>
+            <idno type="STC">Thomason E467_9</idno>
+            <idno type="STC">ESTC R205242</idno>
+            <idno type="EEBO-CITATION">99864659</idno>
+            <idno type="PROQUEST">99864659</idno>
+            <idno type="VID">116891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116891)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Calvers royall vision. With his most humble addresses to His Majesties royall person.</title>
+                  <author>Calver, Edward, fl. 1649.</author>
+               </titleStmt>
+               <extent>19, [1] p. : ill  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>The titlepage is printed on A1v opposite an engraved plate of Calver in repose with his vision of the royal family engraved above him.</note>
+                  <note>Annotation on Thomason copy: "October ye 12th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116891:1" rendition="simple:additions"/>
+            <p>CALVERS ROYALL VISION.</p>
+            <p>With his moſt humble Addreſſes TO HIS <hi>MAJESTIES</hi> Royall Perſon.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:116891:1"/>
+            <p>
+               <figure>
+                  <figDesc>man lying down daydreaming of a king, queen, and prince</figDesc>
+                  <head>CALVERS ROYALL VISION</head>
+               </figure>
+            </p>
+            <l>Impartiall Heavens, that never did deſpiſe —</l>
+            <l>Poore silly Shepheards, more then sage and wiſe —</l>
+            <l>In making them the Meſsengers to bring —</l>
+            <l>Most bleſsed tidings, tunes that Angels sing:</l>
+            <l>Glory to God, to God on high; and then —</l>
+            <l>Peace vpon Earth, and good will towards men—</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="5" facs="tcp:116891:2"/>
+            <head>CALVERS <hi>Royall Viſion.</hi>
+            </head>
+            <lg>
+               <l>WHen Titan poſting in his reſtleſſe motion,</l>
+               <l>Had caſt himſelfe into the Weſterne Ocean,</l>
+               <l>When ſable ſhadowes Phoebus ſhop ſhut in,</l>
+               <l>And leſſer Tapers did their watch begin.</l>
+            </lg>
+            <lg>
+               <l>Whiles ſilent Morpheus ſeiz'd on ev'ry ſence,</l>
+               <l>Fetterd affection choak'd intelligence,</l>
+               <l>And charm'd each Member: only in my head</l>
+               <l>A glorious Viſion thus my fancy fed.</l>
+            </lg>
+            <lg>
+               <l>My thoughts preſented my halfe waking eyes,</l>
+               <l>With glorious objects where the Sun doth riſe,</l>
+               <l>Yea in the Sun, that Vſher of our dayes,</l>
+               <l>Who was arriv'd now in our Eaſterne bayes,</l>
+               <l>And with his beames our dark'ned Orbe adorning,</l>
+               <l>Set ope the golden windowes of the Morning.</l>
+            </lg>
+            <lg>
+               <l>I ſaw the Sun moſt radiantly ariſe,</l>
+               <l>And in its Circle, as I did ſurmiſe,</l>
+               <l>I ſaw our Noble Soveraignes Armes appeare</l>
+               <l>Moſt richly, lively, truly drawne and cleere.</l>
+            </lg>
+            <lg>
+               <l>Whereat delighted to behold the ſight</l>
+               <l>Of ſuch a Sun riſe from ſo ſad a night,</l>
+               <l>My thoughts poſſeſt me in my buſied braine,</l>
+               <l>Of now another Noble CHARLES his waine.</l>
+            </lg>
+            <lg>
+               <l>Whereon a while my hungry fancy fed,</l>
+               <l>And in this heavenly, hopefull figure read</l>
+               <pb n="6" facs="tcp:116891:3"/>
+               <l>With much contentment, hoping now the day</l>
+               <l>Was ſpringing, ſhould all ſhadowes chaſe away.</l>
+            </lg>
+            <lg>
+               <l>But whiles this Object thus my thoughts indeard,</l>
+               <l>More cauſe of comfort ſuddainely appear'd;</l>
+               <l>For this rare Object offer'd to my view</l>
+               <l>The richeſt pictures ever pencil drew.</l>
+            </lg>
+            <lg>
+               <l>Three Royall Perſons lively portraitur'd,</l>
+               <l>The ſunne, the grownd worke, by no clouds obſcur'd,</l>
+               <l>Whoſe ſilver luſter gave theſe formes in gold,</l>
+               <l>The moſt of beauty mortalls may behold.</l>
+            </lg>
+            <lg>
+               <l>Above King <hi>Charles</hi> ſat in a Royall Chaire;</l>
+               <l>More low Queene <hi>Mary,</hi> ſmiling on her haire;</l>
+               <l>Our noble Pince <hi>Charles,</hi> each in order ſit,</l>
+               <l>Where they, out ſhining chriſtall pearles in jet,</l>
+               <l>Aſcended in our hemiſpheare on high,</l>
+               <l>With matchleſſe ſplendor burniſhing the skye.</l>
+            </lg>
+            <lg>
+               <l>But over dazzel'd by theſe Objects bright,</l>
+               <l>I too much gazing, loſt my too weak ſight:</l>
+               <l>And in this rapture, pleaſures pleaſant deep,</l>
+               <l>My thoughts were drowned, fancy fest aſleep.</l>
+               <l>Thrice happy fancy that ſuch prey obtain'd;</l>
+               <l>But more unhappy, looſing what you gain'd:</l>
+               <l>Could you not wait with more reſpect and care</l>
+               <l>Vpon ſuch Object as theſe Perſons were?</l>
+               <l>But in preſumption muſt approach ſo neere,</l>
+               <l>To dimme your Lanthornes, by thoſe lights ſo cleare?</l>
+            </lg>
+            <lg>
+               <l>Doubtleſſe theſe wonders were not without weight,</l>
+               <l>Not empty ſhadowes only meere conceit;</l>
+               <l>But had ſome ſubſtance, and preſaged more</l>
+               <l>Then Ayry fancy ever had in ſtore.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:116891:3"/>
+            <head>Moſt humble addreſſes to His Majeſties Royall Perſon.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">M</seg>Oſt glorious <hi>Charls</hi> whom in heav'ns chair of State,</l>
+               <l>The Sun I mean I ſaw inthron'd of late,</l>
+               <l>Aſcending in our Hemiſphere or high,</l>
+               <l>With objects deareſt to Your Majeſty.</l>
+               <l>(Which here I have in a rude habit dreſt,</l>
+               <l>Which of all habits doth deſerve the beſt.)</l>
+               <l>My thoughts are fixt what ere is figur'd out,</l>
+               <l>Or thus foreſhown, time now will bring about,</l>
+               <l>And unto all men make the ſubſtance known</l>
+               <l>Of what to me was but in ſhadows ſhown.</l>
+            </lg>
+            <lg>
+               <l>Thoſe fatall vapours, which obſcur'd your rayes,</l>
+               <l>And caus'd our night, or moſt prodigious dayes</l>
+               <l>Begin to vaniſh, and ſome beams appear,</l>
+               <l>As ſignes of a moſt happy ſun-riſe near.</l>
+               <l>The powers above prepare to ſee this ſight,</l>
+               <l>With drawing of the curtains of the night,</l>
+               <l>To this the ſtarres are in their courſe directed,</l>
+               <l>The planets in their houſes well aſpected:</l>
+            </lg>
+            <lg>
+               <l>Late angry <hi>Mars</hi> his fatall force abates,</l>
+               <l>And <hi>Jupiter</hi> our joy predominates,</l>
+               <l>Who moderating of the powers above,</l>
+               <l>Preſageth fair and happy dayes of love.</l>
+            </lg>
+            <lg>
+               <l>Whiles mortalls we, as lookers on below,</l>
+               <l>Your fainting Subjects, who that duty <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow,</l>
+               <l>Are gazing, waiting, and intirely pray,</l>
+               <l>As under an Antartick night, for day.</l>
+            </lg>
+            <lg>
+               <l>Bright Sun ariſe then, break thoſe clouds aſunder,</l>
+               <l>And let the ſplendour of your rayes like thunder,</l>
+               <l>Diſperſe all vapours clearing up the skies,</l>
+               <l>That ſo our Sun may without ſhadows riſe,</l>
+            </lg>
+            <pb n="8" facs="tcp:116891:4"/>
+            <lg>
+               <l>Bleſt Sun our Soveraigne, do not then diſdain</l>
+               <l>To ſhine upon your darkened Orbs again,</l>
+               <l>Let not diſpleaſure us deprive of day,</l>
+               <l>That have lov'd darkneſſe, though it juſtly may:</l>
+               <l>But rather imitate the Sun, which ſtill</l>
+               <l>Vouchſafes to ſhine both on the good, and ill.</l>
+            </lg>
+            <lg>
+               <l>What is the cauſe that we have winter here?</l>
+               <l>When all things languiſh, and as dead appear?</l>
+               <l>But onely that by heav'ns ordained Lawes,</l>
+               <l>The Sun His fruitfull Soveraigne beams withdraws.</l>
+            </lg>
+            <lg>
+               <l>And what dear Soveraigne in the chiefeſt place,</l>
+               <l>But the unhappy abſence of your grace</l>
+               <l>Hath been the reaſon that our Realm of late,</l>
+               <l>Hath ſate in darkneſſe, and ſo ſad a ſtate?</l>
+            </lg>
+            <lg>
+               <l>Doubtleſſe full ſad are the effects of night,</l>
+               <l>In darkneſſe wiſemen loſe or want their ſight.</l>
+               <l>And if Your Highneſſe do not yet think well</l>
+               <l>To riſe and ſhine upon us, to diſpell</l>
+               <l>Thoſe clouds of danger do us overcaſt,</l>
+               <l>Our ſtate will prove incurable at laſt.</l>
+            </lg>
+            <lg>
+               <l>Let pity then Your Royall heart inſpire</l>
+               <l>To ſhine upon us, ſhadows may retire,</l>
+               <l>And men in danger may their danger ſee,</l>
+               <l>And ſhun the ſame, and not conſumed be.</l>
+            </lg>
+            <lg>
+               <l>Moſt gracious Soveraigne, if you ſhould' 'tis true,</l>
+               <l>Proceed in Juſtice and no mercy ſhew,</l>
+               <l>You might in juſtice leave that Land in night</l>
+               <l>Which hath endavour'd to eclipſe your light.</l>
+            </lg>
+            <lg>
+               <l>But acts above do moſt from bounty flow:</l>
+               <l>And pardons beſt befit the Gods below;</l>
+               <l>Then paſſe by Juſtice, and in mercy act,</l>
+               <l>The Sun by ſhining onely doth attract.</l>
+            </lg>
+            <lg>
+               <l>Your Kingdomes ſhaking do already ſtand,</l>
+               <l>And force we find, ſometimes confounds a Land:</l>
+               <l>Much more revenge, whiles clemency and love</l>
+               <l>Ingender Peace, and jealouſies remove.</l>
+            </lg>
+            <pb n="9" facs="tcp:116891:4"/>
+            <lg>
+               <l>The breaches which infortunate debate</l>
+               <l>Hath brought to paſſe already in our ſtate</l>
+               <l>May ſtill grow worſe, if ſtill we diſagree;</l>
+               <l>But without concord never made up be:</l>
+               <l>The Sea aſſoon may empty as that blade</l>
+               <l>May cure the Kingdome, which its wounds hath made.</l>
+               <l>Your Subjects now in generall begin</l>
+               <l>To ſee and fear the dangers they are in,</l>
+               <l>And therefore with unanimous conſent,</l>
+               <l>(And ſurely with a Loyall hearts intent)</l>
+               <l>Conſult, reſolve, petition and deſire</l>
+               <l>As men inflamed with a quenchleſſe fire,</l>
+               <l>The ſpeedy ſafe returning of Your Grace</l>
+               <l>With joy and honour to Your former place.</l>
+            </lg>
+            <lg>
+               <l>What though Your Subjects were a while diſſenting?</l>
+               <l>Behold them now, as people now repenting;</l>
+               <l>And let them ſee your tender bowells yearning,</l>
+               <l>Upon ſuch humble prodigalls returning;</l>
+               <l>Remembring ſtill when Shepherds are a way,</l>
+               <l>Their ſheep are left or like to run aſtray.</l>
+            </lg>
+            <lg>
+               <l>As 'tis its ſaid, a glory unto Kings</l>
+               <l>To paſſe by Subjects failings in ſome things:</l>
+               <l>So ſure in matters without danger held,</l>
+               <l>Your Majeſty may conquer whiles You yield,</l>
+               <l>And bow thoſe hearts by clemency and love,</l>
+               <l>Which frowns would burſt or make more flinty prove:</l>
+            </lg>
+            <lg>
+               <l>For ſure moſt ſafe and double bleſt are they,</l>
+               <l>Who by the ſcepter not the ſword do ſway.</l>
+            </lg>
+            <lg>
+               <l>Great Prince, and gracious both with God, and men,</l>
+               <l>Put on the bowells of compaſſion then,</l>
+               <l>And ſhew your ſelfe by heavens aſſign'd that Sun.</l>
+               <l>Which can revive; when all the ſtarres have done.</l>
+            </lg>
+            <lg>
+               <l>Addreſſe Your perſon, thoughts, affections all;</l>
+               <l>God, men and Angels for Your aid do call:</l>
+               <l>Do not dread Soveraigne, do no then deny,</l>
+               <l>To tender what befits Your Majeſty.</l>
+            </lg>
+            <pb n="10" facs="tcp:116891:5"/>
+            <lg>
+               <l>Let it be no impediment to Peace,</l>
+               <l>To treat with Subjects for a Kings releaſe;</l>
+               <l>Or to compound for that which is well known</l>
+               <l>To be, or hath been ever thought Your own.</l>
+            </lg>
+            <lg>
+               <l>But rather look beyond the deeds of men,</l>
+               <l>And view a hand of providence herein;</l>
+               <l>And to that ſecret hand of heav'ns ſubmit</l>
+               <l>So far as heav'ns revealed have, is fit.</l>
+               <l>Doubtleſſe the work here which implores Your aid,</l>
+               <l>Ought not through ſmall things to become delaid,</l>
+               <l>It being of a conſequence ſo great</l>
+               <l>That being undone, it undoes the State.</l>
+            </lg>
+            <lg>
+               <l>Unleſſe Your greatneſſe, Royall Majeſty</l>
+               <l>Shall with Your Graces Parliament comply,</l>
+               <l>No ſound Religion can eſtabliſht be:</l>
+               <l>No Peace be ſetled in a ſafe degree:</l>
+               <l>No glory in the Crown of <hi>England</hi> had,</l>
+               <l>Nor hope of future glory; which is ſad:</l>
+               <l>No Lawes ordained which will ever ſtand:</l>
+               <l>No love, no joy, no plenty in the Land:</l>
+               <l>No freedome to the Subject given: no eaſe</l>
+               <l>Of any preſent burden, but increaſe.</l>
+            </lg>
+            <lg>
+               <l>Beſides that ſore, that preſent bloody vent</l>
+               <l>will run 'tis like, untill the ſtream be ſpent,</l>
+               <l>And <hi>England</hi> made the ſcorn of future dayes,</l>
+               <l>Which hath ſo long been <hi>Europes</hi> higheſt praiſe.</l>
+            </lg>
+            <lg>
+               <l>All which conſider'd, and a thouſand ills</l>
+               <l>Which hence would follow, paſt the art of quills</l>
+               <l>To figure fully will my Liege, I know</l>
+               <l>Incite Your Highneſſe, though you ſhould ſtoop low;</l>
+               <l>To put your ſacred ſaving hand to ſtay</l>
+               <l>Our dreadfull ruines, and your Lands decay.</l>
+               <l>In that ſad poſture yet your Realms are in,</l>
+               <l>You are the loſer whoſoever win.</l>
+               <l>And though my duty ſhall be kept in ſtore;</l>
+               <l>Yet I am doubfull heav'ns will call no more,</l>
+               <pb n="11" facs="tcp:116891:5"/>
+               <l>If You hold back now from Your Parliament,</l>
+               <l>When heav'ns hath for you ſuch a chariot ſent.</l>
+            </lg>
+            <lg>
+               <l>But ſure Your Highneſſe will not ſo decline,</l>
+               <l>Not hazard ſo the tempting powers divine,</l>
+               <l>Leaſt when Your Grace and Subjects would agree,</l>
+               <l>By Heavens diſpleaſed, ſhould prevented be;</l>
+               <l>Thoſe powers above, by whom Kings raigne below,</l>
+               <l>And fade and flouriſh, as ſeas ebbe and flow.</l>
+            </lg>
+            <lg>
+               <l>Ariſe, ariſe, then glorious Sun ariſe,</l>
+               <l>And let your rayes illuminate our eyes,</l>
+               <l>And warm our heavy chilled hearts to ſee</l>
+               <l>You in Conjunction with your ſtarres, that free</l>
+               <l>From oppoſition, while the skies are fair,</l>
+               <l>You may aſcend to your meridian chair.</l>
+               <l>Your lofty throne which is your due, and thence</l>
+               <l>Your healthfull beams on us below diſpence,</l>
+               <l>That underneath your footſtooll, we may ſit</l>
+               <l>A loyall, joy full, happy people yet.</l>
+            </lg>
+            <lg>
+               <l>Hark hark, then <hi>England,</hi> dying <hi>England</hi> here</l>
+               <l>Are hopes of comfort, helps for cure appear:</l>
+               <l>Lift up thy head, though heavy and thy heart,</l>
+               <l>And out of duty, having done thy part</l>
+               <l>In begging pardon, for thy follies paſt,</l>
+               <l>Thou may'ſt expect a joyfull day at laſt.</l>
+            </lg>
+            <lg>
+               <l>Thy Sun will now ariſe, thy ſtarres give way,</l>
+               <l>As lights too feeble to produce a day:</l>
+               <l>And out of duty will reſigne the right</l>
+               <l>Unto the fountain of their borrowed light.</l>
+            </lg>
+            <lg>
+               <l>Upon petition by me made I find</l>
+               <l>Both <hi>Jupiter</hi> and <hi>Mars</hi> are thus inclin'd;</l>
+               <l>Whence all the order of thoſe lights above</l>
+               <l>Do out of queſtion thus aſpected move.</l>
+            </lg>
+            <lg>
+               <l>Addreſſe thy ſelf then <hi>England,</hi> for this thing.</l>
+               <l>Prepare thy Bonefires, fit thy bells to ring;</l>
+               <l>But above all adorn thy inward parts</l>
+               <l>With thankfull, loyall, and religious hearts:</l>
+               <pb n="12" facs="tcp:116891:6"/>
+               <l>That praiſes ſounding, and thy prayers ringing</l>
+               <l>May make ſuch melody in heaven for bringing</l>
+               <l>Thy Soveraigne home, and ſufferings to a ſtay,</l>
+               <l>That heav'ns may finiſh, not this work delay.</l>
+            </lg>
+            <lg>
+               <l>Thus gracious Soveraigne, I your Subject born,</l>
+               <l>Your Chriſtian Subject otherwiſe forlorn:</l>
+               <l>In croching on a Subjects freedome, have</l>
+               <l>I feare offended, and become your ſlave,</l>
+               <l>Attempting, ſtead of ſublime wings, to fly</l>
+               <l>With fordid, and to ſoare a pitch too high.</l>
+            </lg>
+            <lg>
+               <l>But gracious Soveraigne, let your Highneſſe know</l>
+               <l>I had been ſilent, or had kept below,</l>
+               <l>Had not the Viſion, not a fond conceit;</l>
+               <l>Which heavens allow'd me, lifted me this height.</l>
+            </lg>
+            <lg>
+               <l>Where heavens on purpoſe I thinke, did intend</l>
+               <l>What they had picturd ſhould by me be pen'd,</l>
+               <l>That ſo your Highneſſe, and the world might ſee</l>
+               <l>How far in favour with the Heavens you be,</l>
+               <l>And what a height of glory and renown</l>
+               <l>They doe intend you after caſting down:</l>
+               <l>If you reſiſt not; but the Heavens be bleſt,</l>
+               <l>Your Highneſſe late hath ſo diſpeld this miſt,</l>
+               <l>So daſh'd this doubt, ſo rac'd this ſcruple made</l>
+               <l>As may the moſt obdurate heart perſwade:</l>
+            </lg>
+            <lg>
+               <l>Your Royall, ample, gracious anſwer ſent</l>
+               <l>In tearms of peace unto your Parliament,</l>
+               <l>Are ſuch as ſure no Chriſtian eye can view,</l>
+               <l>Or eare can heare, and not their cheeks bedew</l>
+               <l>With teares of joy, to your hearts intent</l>
+               <l>So full and firme for peace and truth in print;</l>
+               <l>Which praiſe in poynt to your eternall fame,</l>
+               <l>Shall outlive cruel fate, and bleſſe your name.</l>
+            </lg>
+            <lg>
+               <l>Beſides ſome former waking thoughts of mine,</l>
+               <l>The rather makes me heereunto incline;</l>
+               <l>Where treating of your troubles in the Weſt,</l>
+               <l>(As in thoſe extant Verſes is expreſt)</l>
+            </lg>
+            <pb n="13" facs="tcp:116891:6"/>
+            <lg>
+               <l>I do compare your Highneſſe to the Sun,</l>
+               <l>Aſcribing of our cares but (then begun)</l>
+               <l>In part unto our Suns, your ſacred Graces</l>
+               <l>Then riſing in the Suns unwonted places,</l>
+               <l>The Weſt: and how it was a wonder ſtrange,</l>
+               <l>Prognoſticating to the Land a change,</l>
+               <l>Which much portended as (th' event diſplayes)</l>
+               <l>Times of confuſion, moſt prodigious dayes,</l>
+               <l>Which ſhould continue till our darkned Eaſt,</l>
+               <l>Should with our Suns your Soveraigne beams be bleſt.</l>
+            </lg>
+            <lg>
+               <l>Which Meditations by this viſion ſince</l>
+               <l>So far confirmed, and by evidence</l>
+               <l>So clear and powerfull who can be ſo dull,</l>
+               <l>To think that empty which appeares ſo full?</l>
+               <l>Great King I cannot but 'tis in my breaſt</l>
+               <l>That this in part, ſhall come to paſſe at leaſt:</l>
+               <l>But gracious Soveraigne, On that heere my quill</l>
+               <l>Dip'd in ſome Fountaine on <hi>Pernaſſus</hi> hill,</l>
+               <l>To draw Petitions could afford ſuch inck</l>
+               <l>As might into your tender boſome ſinck.</l>
+            </lg>
+            <lg>
+               <l>Suppoſe that heavens, inſenſed Heavens above</l>
+               <l>Out of diſpleaſure, rather then in love;</l>
+               <l>If you requir't, admits you to retire</l>
+               <l>Unto your throne in ruine, blood, and fire,</l>
+               <l>By force I meane, as a reward moſt fit</l>
+               <l>For ſuch as will not tearmes of peace admit.</l>
+            </lg>
+            <lg>
+               <l>Thus you perhaps, may gaine what you have loſt;</l>
+               <l>But thus to gaine, what will the purchaſe coſt?</l>
+               <l>'Tis ſad to thinke, 'tis dangerous to try,</l>
+               <l>But above all, 'tis deere, full deere to buy.</l>
+            </lg>
+            <lg>
+               <l>Much blood muſt ſpill before this ſpoyle be wone;</l>
+               <l>And who can tell what precious blood may runne?</l>
+               <l>'Tis ſure that wound within our Kingdomes ſide,</l>
+               <l>Now almoſt deſperate, muſt be made more wide,</l>
+               <l>And blood muſt more and more defile the Land,</l>
+               <l>And make it yet more weake and tottering ſtand.</l>
+            </lg>
+            <pb n="14" facs="tcp:116891:7"/>
+            <lg>
+               <l>But whatſoever under this doth groan,</l>
+               <l>Dear Soveraigne let not bloud defile your throne,</l>
+               <l>That matchleſſe throne ſo many years hath ſtood</l>
+               <l>Unſtain'd, whiles all the world hath been in blood.</l>
+            </lg>
+            <lg>
+               <l>Beſides, Great Prince, if through theſe ruines paſt,</l>
+               <l>Theſe ſeas of danger you arrive at laſt,</l>
+               <l>Upon your throne in ſpight of all oppoſe;</l>
+               <l>Yet all will but exaſperate your foes,</l>
+               <l>Who though ſubdued for the preſent, will</l>
+               <l>Retain a heart to be revenged ſtill.</l>
+            </lg>
+            <lg>
+               <l>Whereby your Highneſſe and your Kingdomes three</l>
+               <l>And which is moe your Royall race ſhall be</l>
+               <l>Stil Subject to the danger of revenge</l>
+               <l>Of deadly hatred, deſperate war and change.</l>
+            </lg>
+            <lg>
+               <l>That though you this way ſhould the conqueſt gain,</l>
+               <l>Yet thus you ſhould in no contentment raign,</l>
+               <l>But ſtill poſſeſſe that with continuall fear</l>
+               <l>Which you ſhall conquer with much coſt and care.</l>
+            </lg>
+            <lg>
+               <l>But here, dread Soveraigne, do not me miſtake,</l>
+               <l>Of harmleſſe lines, no harſh conſtruction make,</l>
+               <l>Nor yet ſuſpect my Loyalty at all:</l>
+               <l>I neither ſee, or yet foreſee your fall,</l>
+               <l>Nor fear the ſame, but with that jealous care</l>
+               <l>With which men keep their jewells which are rare.</l>
+            </lg>
+            <lg>
+               <l>Nor do I think, nor would I here preſent</l>
+               <l>That in a priſon you ſhould reſt content,</l>
+               <l>You at whoſe Royall, awfull, juſt command,</l>
+               <l>Should all the priſons in your Kingdomes ſtand.</l>
+            </lg>
+            <lg>
+               <l>Nor do I hold it in your highnes bad,</l>
+               <l>If no way elſe your freedome can be had</l>
+               <l>If you uſe force, and ſhew your Princely might,</l>
+               <l>To gain by ſtrength, what is in truth your right.</l>
+            </lg>
+            <lg>
+               <l>But onely this, this makes me thus aſſume,</l>
+               <l>Thus paſt the bounds of duty to preſume;</l>
+               <l>My loyall, reall, Chriſtian and intire</l>
+               <l>Intents of heart, my prayer, and deſire</l>
+               <pb n="15" facs="tcp:116891:7"/>
+               <l>That Peace may make the path unto you joy,</l>
+               <l>Which fought by war, the ſeeking may deſtroy.</l>
+            </lg>
+            <lg>
+               <l>Beſides dread Soveraigne, and moſt Chriſtian Prince,</l>
+               <l>If this my viſion may give evidence</l>
+               <l>Of your aſcending to your Throne in fame;</l>
+               <l>Sure war is not the way unto the ſame:</l>
+               <l>For in that Viſion, or that rapture rare,</l>
+               <l>No ſignes appear'd of war, of force, or feare,</l>
+               <l>No Cloudes, not any oppoſition ſeen;</l>
+               <l>But all concurring, gentle, ſweet, ſerene,</l>
+               <l>And joyfull tokens of ſuch Peace, and love,</l>
+               <l>As if ſome heavenly Parliament above</l>
+               <l>In conſultation voted your releaſe,</l>
+               <l>And bleſt, returne unto your Throne in peace.</l>
+            </lg>
+            <lg>
+               <l>Peace, Chriſtian peace! my pen's too weak by oddes</l>
+               <l>To ſhaddow 't out, unto the life; the Gods,</l>
+               <l>Yea that ſame God, who doth the Gods excell</l>
+               <l>Delights in Peace, in Peace delights to dwell,</l>
+               <l>Hath made his Throne the Throne of Peace: his ſonne</l>
+               <l>The Prince of Peace: and who below hath won</l>
+               <l>More glory then that King of Peace, or rather,</l>
+               <l>That God of Peace amongſt us men, your Father;</l>
+               <l>Who gain'd by Peace that glory and renowne,</l>
+               <l>Which Europe could not equall to his Crowne.</l>
+            </lg>
+            <lg>
+               <l>Who having heere in Peace his Office done,</l>
+               <l>To his reward, eternall peace is gone,</l>
+               <l>Where he no doubt deſires his throwne below</l>
+               <l>Should ſtill remaine, the ſame he did beſtow,</l>
+               <l>A throne of peace, which he hath found the way</l>
+               <l>Unto that glory never ſhall decay</l>
+               <l>Upon the Earth whiles Sunne and Moone ſhall ſhine,</l>
+               <l>Nor yet in Heaven when thoſe our lights decline.</l>
+               <l>Shall any heart then ſo conceive amiſſe,</l>
+               <l>To feare a branch of ſuch a ſtock as this</l>
+               <l>Should prove ſo far degenerate from kind,</l>
+               <l>As to be of a cruell bloody minde?</l>
+            </lg>
+            <pb n="16" facs="tcp:116891:8"/>
+            <lg>
+               <l>It muſt be ſure a cruell heart muſt thinke</l>
+               <l>Such cruell thoughts, which never yet could ſink</l>
+               <l>Into my head, nor ever ſhall, I truſt;</l>
+               <l>The powers producing are not ſo unjuſt.</l>
+            </lg>
+            <lg>
+               <l>No, no deare Soveraigne, no, I am poſſeſt,</l>
+               <l>You have a tender heart within your breaſt,</l>
+               <l>And are by nature properly inclin'd</l>
+               <l>To Peace and concord of a gentle minde;</l>
+               <l>Inheritance doth make theſe virtues yours;</l>
+               <l>Beſides the working of ſupreamer powers.</l>
+            </lg>
+            <lg>
+               <l>That if your highneſſe ever did adhere,</l>
+               <l>Or ever ſhall to any needleſſe war,</l>
+               <l>Or any other cruell act, I know</l>
+               <l>It cannot from your diſpoſition flow,</l>
+               <l>But muſt be rather forced, or a thing</l>
+               <l>Proceeding from a miſ-informed King,</l>
+               <l>By ſuch as work upon your Majeſty,</l>
+               <l>To work their owne unnappy ends thereby.</l>
+            </lg>
+            <lg>
+               <l>Doubtles full waighty is a Crowne to weare,</l>
+               <l>And oft as full of danger as of care;</l>
+               <l>The danger of ſeducing heads as great</l>
+               <l>As all the care had to uphold a State.</l>
+            </lg>
+            <lg>
+               <l>If ever Monarch ſince the worlds encreaſe</l>
+               <l>Had need of patience, and a love of Peace;</l>
+               <l>Then ſure your Highneſſe, of which gifts indeed,</l>
+               <l>I want expreſſions to explaine your need:</l>
+            </lg>
+            <lg>
+               <l>Beſides the troubles, tryalls, greefe of heart</l>
+               <l>Your Grace hath beene in, and are yet in part;</l>
+               <l>Which ſure might move the moſt unmoved ſpirit,</l>
+               <l>That fleſh and bloud did ever yet inherit.</l>
+            </lg>
+            <lg>
+               <l>When I conſider of enſuing dayes,</l>
+               <l>When heavens, I hope your Majeſty ſhall raiſe</l>
+               <l>Unto your Throne, and Crown your temples yet</l>
+               <l>With that ſame precious Diadem is fit:</l>
+            </lg>
+            <lg>
+               <l>When you arrived at this port for peace,</l>
+               <l>Which you have ſail'd to through ſuch rugged Seas,</l>
+               <pb n="17" facs="tcp:116891:8"/>
+               <l>Where, like one baniſht, raiſed to renowne,</l>
+               <l>Or like your Grace from priſon to a Crowne:</l>
+               <l>Your Highneſſe ſhould expect a happy reſt,</l>
+               <l>A bleſſed Sun-ſhine when the ſtorme is paſt,</l>
+               <l>Wherewith to warme, to comfort, joy, and cheare</l>
+               <l>Your ſad, and weary, Sacred Soule moſt deare,</l>
+               <l>With all thoſe Royall, ample, during, bleſt,</l>
+               <l>And ſweet injoyment that befits you beſt.</l>
+            </lg>
+            <lg>
+               <l>When thus I ſay, your Highneſſe ſhould remain</l>
+               <l>Thus Crown'd with Peace, in happineſſe to raign,</l>
+               <l>Oh, how my thoughts, my thoughts as out of place,</l>
+               <l>Are heere moleſted, thinking on your Grace?</l>
+               <l>To think how then your Peace may be moleſted</l>
+               <l>By dreadfull motions of revenge ſuggeſted.</l>
+            </lg>
+            <lg>
+               <l>Me thinks I fore-ſee, or at leaſt I feare</l>
+               <l>What powerfull objects of your future care</l>
+               <l>Will be preſented dayly to your eies,</l>
+               <l>Preſented too, perhaps in teares and cryes,</l>
+               <l>Moſt ſtrong Petitions to your Noble Grace</l>
+               <l>By ſuch as have beene ſuffters in your caſe,</l>
+               <l>That then at laſt they may have their deſire,</l>
+               <l>And quench thoſe flames revenge will ſet on fire:</l>
+               <l>Revenge, revenge, a juſt revenge O King,</l>
+               <l>Ingaging to your Highneſſe in the thing,</l>
+               <l>Will be a dayly eccho in your eares</l>
+               <l>With ſuch a trumpet ſounding out your cares,</l>
+               <l>And wrongs ſuſtained, with their owne, this war</l>
+               <l>As will prevaile, if not prevaile too far.</l>
+               <l>But heavens, I hope, nay, more then hope, I know</l>
+               <l>If they in peace, and mercy, will beſtow</l>
+               <l>Your throne upon you; which I hope to ſee:</l>
+               <l>They will there with beſtow ſuch a degree</l>
+               <l>Of gifts, and vertues on your Royall Grace</l>
+               <l>As ſhall both pleaſe them, and befit your place.</l>
+            </lg>
+            <lg>
+               <l>Beſides Great King, as I have ſhowne in part.</l>
+               <l>You have (I doubt not) in your breaſt a heart</l>
+               <pb n="18" facs="tcp:116891:9"/>
+               <l>Which is by nature tender, ſweet, and milde,</l>
+               <l>As beſt befits a peacefull Fathers childe;</l>
+               <l>By birth a ſon of peace, and ſure will prove</l>
+               <l>By grace I truſt, a Prince of peace and love.</l>
+            </lg>
+            <lg>
+               <l>And ſo be able wiſely to reſiſt</l>
+               <l>The dreadfull motions that revenge ſuggeſt,</l>
+               <l>And ſtop your eares unto that hidious cry,</l>
+               <l>Wherein conceal'd doth all confuſion ly.</l>
+               <l>The bane and ruine both of Church and State,</l>
+               <l>Eſpecially where ruine was ſo late.</l>
+            </lg>
+            <lg>
+               <l>That ſo when heavens have ſet your Highneſſe free</l>
+               <l>You may no more in bonds inſnared be,</l>
+               <l>But ſeeke by peace and concord to enjoy</l>
+               <l>What war and diſcord did ſo late diſtroy.</l>
+            </lg>
+            <lg>
+               <l>Preferring peace above the ſuits of thoſe</l>
+               <l>That beg revenge, although upon your foes,</l>
+               <l>Suppoſed foes, or foes that will recant,</l>
+               <l>And beg your Graces pardon, which to grant</l>
+               <l>Will bleſſe your Grace, and ſet your Throne more ſure,</l>
+               <l>Then black revenge for ever can procure,</l>
+               <l>And raiſe your Highneſſe higher ſtill and higher,</l>
+               <l>Untill your Grace ſhall to that Throne aſpire</l>
+               <l>Erected in the higheſt heavens above,</l>
+               <l>The Throne of God, the ſeat of peace and love,</l>
+               <l>Where Kings of peace, and men of peace ſhall raigne</l>
+               <l>In peace and glory ever ſhall remaine.</l>
+            </lg>
+            <lg>
+               <l>Unto which Throne I ſhall not ceaſe to pray,</l>
+               <l>That Heavens may thus direct you in the way,</l>
+               <l>That manger what might move you to miſcarry,</l>
+               <l>You may not from that heavenly dictate vary;</l>
+               <l>But ſteere your courſe ſtill in this calme of reſt,</l>
+               <l>Where ſailing's ſafe, and to arrive is bleſt.</l>
+            </lg>
+            <lg>
+               <l>That when your Highneſſe hath this voyage paſt,</l>
+               <l>And be arrived at that ſame Haven at laſt</l>
+               <l>The Heaven of Havens, the ſhore of all renowne,</l>
+               <l>The Throne of God, to weare a better Crowne:</l>
+            </lg>
+            <pb n="19" facs="tcp:116891:9"/>
+            <lg>
+               <l>You then may leave that bleſſing to your ſonne,</l>
+               <l>Our hopefull Prince; that bleſſed <hi>James</hi> hath done</l>
+               <l>Unto your Grace; a Throne of Peace I meane,</l>
+               <l>That ſo his Crowne may flouriſh, may be green,</l>
+               <l>And free from war, and envy 's nipping blaſt;</l>
+               <l>May bring forth fruits of glory, which may laſt,</l>
+               <l>And make his Highneſſe to his Subjects prove</l>
+               <l>The bleſſed, bleſſed Object of their love:</l>
+               <l>And England henceforth ever underſtood</l>
+               <l>A Land of Peace, no more a field of bloud.</l>
+            </lg>
+            <lg>
+               <l>Thus Gracious Soveraigne, on my knees to crave</l>
+               <l>The pardon Loyall muſes wont to have,</l>
+               <l>As building on your Goodneſſe I begun,</l>
+               <l>So begging your forgiveneſſe, I have done.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
